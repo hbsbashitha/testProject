@@ -12,7 +12,7 @@ public class DemoApplication {
 
 	@GetMapping
 	public String hello(){
-		return "hello ";
+		return "hello bhashitha";
 	}
 
 	public static void main(String[] args) {
